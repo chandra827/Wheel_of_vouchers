@@ -2,7 +2,7 @@
 <br/>
 <p>Spin the Wheel to win free Vouchers</p>
 <br/>
-<a href="https://chandra827.github.io/Wheel_of_vouchers/" target="_blank" >Spin the Wheel game link </a>
+<a href="https://chandra827.github.io/Wheel_of_vouchers/" target="_blank">Spin the Wheel game link </a>
 
 <h2>Home Page</h2>
 <img src="https://github.com/chandra827/Wheel_of_vouchers/blob/main/screenshot/home%20page.png" alt="app image " /> 
